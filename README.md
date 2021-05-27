@@ -6,7 +6,7 @@
 <p>
   Neste projeto fiz um classificador que visa ajudar usuários na sujestão de classificação (notas/estrelas) para quartos de hotel . <br>
  Aqui o usuário dá seu comentário e o algoritmo automaticamente prediz uma classificação , que pode variar de  1 à 5.
- Você pode digitar em **qualquer lingua** que ele prediz.
+ Você pode digitar em ** qualquer lingua ** que ele prediz.
 </p>
 <br>
 ## EN:
