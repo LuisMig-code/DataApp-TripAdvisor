@@ -18,5 +18,9 @@
   You can type in any language it predicts.
 </p>
 
-## Uso da Aplicação / 
+## Uso da Aplicação / Application Use
+<img src="assets/video_usando_app.gif">
+
+<hr>
+
 <img src="https://images.pexels.com/photos/163688/hiker-travel-trip-wander-163688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
