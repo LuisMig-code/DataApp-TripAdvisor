@@ -1,6 +1,8 @@
 # DataApp TripAdvisor
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fe.rpp-noticias.io%2Fnormal%2F2017%2F11%2F09%2F101710_516361.png&f=1&nofb=1">
+<img src="https://images.pexels.com/photos/163688/hiker-travel-trip-wander-163688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
+
 
 ## PT-BR:
 <p>
@@ -20,7 +22,3 @@
 
 ## Uso da Aplicação / Application Use
 <img src="assets/video_usando_app.gif">
-
-<hr>
-
-<img src="https://images.pexels.com/photos/163688/hiker-travel-trip-wander-163688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
